@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InventoryManagement</string>
+    <string name="Product">Product</string>
+    <string name="Material">Material</string>
+    <string name="DailyProduct">Daily Product</string>
+    <string name="ProductOutgoing">Product Outgoing</string>
+    <string name="MaterialIncoming">Material Incoming</string>
+    <string name="Home">Home</string>
+
+    <string name="Hotel">Add Hotel</string>
+    <string name="Login">Login</string>
+    <string name="Logout">Logout</string>
+    <string name="Profile">Profile</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Bookings">Bookings</string>
+    <string name="Hotels">Hotels</string>
+    <string name="ViewHotel">View Hotel</string>
+</resources>
